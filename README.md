@@ -16,6 +16,6 @@
 - 实验所用图片集：calibration_images
 - 实验视频：相机标定.mp4  opencv 物体位姿解算与solvePnP实战实验成功视频.mp4
 
-## 个人学习笔记
-
 ## AI对话记录
+https://gemini.google.com/share/3ebd3d39dd06
+https://gemini.google.com/share/082e26d81977
